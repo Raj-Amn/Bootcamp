@@ -1,4 +1,4 @@
-# HOT
+# TODOs:
 cfgroup[https://codeforces.com/group/4vcXCPx8NY/contests]
 wakatime[https://wakatime.com/dashboard]
 
