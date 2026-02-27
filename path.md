@@ -17,9 +17,8 @@ full stack open
 memory management in c(manual memory management)
 Go , Rust,
 
-django
 frontend => react 
 backend ->nodejs
 nextjs
 fireship
-
+python refer youtube
